@@ -1,0 +1,5 @@
+package enums;
+
+public enum Department {
+    CHEMISTRY, LAW, EDUCATION, ENGINEERING, POLITICS, ARTS, COMMUNICATIONS, ARCHITECTURE;
+}

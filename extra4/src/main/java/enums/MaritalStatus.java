@@ -1,0 +1,5 @@
+package enums;
+
+public enum MaritalStatus {
+    NOT_MARRIED, MARRIED, WIDOWED, COMMON_LAW_MARRIED, SEPARATED, DIVORCED, ENGAGED;
+}
